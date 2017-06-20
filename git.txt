@@ -2,3 +2,5 @@ Git is a distributed revision control and source code management system with an 
 Tesing
 Developing software without using version control is risky, like not having backups. Version control can also enable developers to move faster and it allows software teams to preserve efficiency and agility as the team scales to include more developers.
 I've been using git stash pop for quite some time. I recently found out about the git stash apply command. When I tried it out, it seemed to work the same as git stash pop.
+Git is a distributed revision control and source code management system with an emphasis on speed. Git was initially designed and developed by Linus Torvalds for Linux kernel development.
+Git is a distributed revision control.
